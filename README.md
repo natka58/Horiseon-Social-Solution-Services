@@ -1,4 +1,4 @@
-# Horiseonsolutions
+# Horiseon Slutions
 ### One stop marketing agency offering
 
 *Search Engine Optimization
