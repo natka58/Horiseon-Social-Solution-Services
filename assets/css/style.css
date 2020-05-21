@@ -73,9 +73,10 @@ header nav ul li a {
 
 }
 .content h2 {
-    margin-bottom: 40px;
-    margin-top: 60px;
     font-size: 36px;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
     display: inline;
     
 }
